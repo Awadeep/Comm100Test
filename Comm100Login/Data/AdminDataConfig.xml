@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<adminData>
+  <uiPortal>
+    <hostUrl>https://www.comm100.com/</hostUrl>
+    <hostType>UI</hostType>
+    <loginId>awadeep.chaturvedi@consiliuminc.com</loginId>
+    <loginPassword>Awadeep@123</loginPassword>
+    <invalidPassword>xyz</invalidPassword>
+  </uiPortal>
+</adminData>
