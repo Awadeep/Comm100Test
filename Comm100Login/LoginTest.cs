@@ -54,7 +54,7 @@ namespace Comm100Login
             // Click on the Sign in button
             IWebElement loginform = driver.FindElement(By.Id("lblLogin"));
             loginform.Submit();
-            System.Threading.Thread.Sleep(2000);
+            System.Threading.Thread.Sleep(9000);
             Assert.AreEqual(true, driver.Url.Contains("siteId"));
 
             //Assert.AreEqual(driver.FindElement(By.Id("Dashboard"));
